@@ -1,8 +1,13 @@
-﻿
-static void Main(string[] args)
+﻿namespace Variables.cs
 {
-    int intValue;
-    intValue = 5;
-    Console.Write("This value is ");
-    Console.WriteLine(intValue);
+    class Variables.cs
+    {
+        static void Main(string[] args)
+        {
+            int intValue;
+            intValue = 5;
+            Console.Write("This value is ");
+            Console.WriteLine(intValue);
+        }
+    }
 }
