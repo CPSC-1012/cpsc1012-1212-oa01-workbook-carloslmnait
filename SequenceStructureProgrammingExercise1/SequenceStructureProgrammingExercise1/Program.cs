@@ -10,7 +10,7 @@
  *                                  age
  *                                  annualPay
  *
- *              Step 3) Display the output
+ *              Step 2) Display the output
  *              
  * Last modified:       2022-01-13
  * 
