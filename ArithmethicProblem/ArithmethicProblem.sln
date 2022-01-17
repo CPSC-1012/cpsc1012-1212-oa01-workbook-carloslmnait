@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArithmethicProblem", "ArithmethicProblem\ArithmethicProblem.csproj", "{A3DFE233-1A11-4112-BF82-80B5FA9530AD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A3DFE233-1A11-4112-BF82-80B5FA9530AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A3DFE233-1A11-4112-BF82-80B5FA9530AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A3DFE233-1A11-4112-BF82-80B5FA9530AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A3DFE233-1A11-4112-BF82-80B5FA9530AD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7AB8015B-D0C4-40D1-8F4D-6486DFEEBF80}
+	EndGlobalSection
+EndGlobal
