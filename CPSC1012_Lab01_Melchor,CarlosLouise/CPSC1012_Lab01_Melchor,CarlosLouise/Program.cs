@@ -1,4 +1,4 @@
-﻿/*Purpose:  To write a program that equivalents into a reciept (includes Taxes, SubTotal, and Sum calculations)
+﻿/*Purpose:  To write a program that equivalents into a receipt (includes Taxes, SubTotal, and Sum calculations)
  * 
  * Input: Item Price and Quantity
  * 
