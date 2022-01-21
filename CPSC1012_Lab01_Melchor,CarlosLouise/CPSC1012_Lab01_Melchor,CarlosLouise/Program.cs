@@ -2,7 +2,7 @@
  * 
  * Input: Item Price and Quantity
  * 
- * Output: sum, average
+ * Output: Sub Total of Items, Taxes from Sub Total, and Total Price with tax
  * 
  * Written by: Melchor,Carlos Louise
  * 
