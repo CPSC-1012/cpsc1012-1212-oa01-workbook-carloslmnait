@@ -30,12 +30,12 @@ namespace CPSC1012_Lab01_Melchor_CarlosLouise
             double provincialSalesTax;
             double federalSalesTax;
 
-            //Opening Message and Item Prompt
+            //Opening Message
             Console.WriteLine("************Welcome to the General Store************");
 
+            //Prompt for Item Price and Quantity
             Console.Write("Please enter the price of an item:");
             itemPrice = double.Parse(Console.ReadLine());
-
             Console.Write("Please enter the quantity being purchased:");
             quantity = double.Parse(Console.ReadLine());
 
