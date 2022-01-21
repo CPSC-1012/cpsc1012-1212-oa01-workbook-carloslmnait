@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32112.339
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SequenceStructureProgramming4", "SequenceStructureProgramming4\SequenceStructureProgramming4.csproj", "{BBAE4C75-5E1D-48F5-A566-52B4350706C2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BBAE4C75-5E1D-48F5-A566-52B4350706C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBAE4C75-5E1D-48F5-A566-52B4350706C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBAE4C75-5E1D-48F5-A566-52B4350706C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBAE4C75-5E1D-48F5-A566-52B4350706C2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE30F3E7-FE8E-4CD1-853C-BF1892C4F6AB}
+	EndGlobalSection
+EndGlobal
