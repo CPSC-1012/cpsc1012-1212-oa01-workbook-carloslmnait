@@ -62,7 +62,9 @@ namespace CPSC1012_Lab01_Melchor_CarlosLouise
                 $"\n\nTotal Price:     {totalPrice}");
             
             // Thank You message & end of invoice
-            Console.WriteLine("=========================\n\nThank you for your purchase, come again..\nPress any key to exit");
+            Console.WriteLine("=========================" +
+                "\n\nThank you for your purchase, come again.." +
+                "\nPress any key to exit");
 
         }
     }
